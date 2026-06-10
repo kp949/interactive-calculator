@@ -63,5 +63,5 @@ def main() -> None:
         print(f"Result: {result}")
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":  # pragma: no cover
     main()
